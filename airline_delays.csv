@@ -1,0 +1,11 @@
+Destination,Airline,Delay (minutes)
+New York,Airline A,10
+New York,Airline B,15
+Chicago,Airline A,-5
+Chicago,Airline B,20
+Los Angeles,Airline A,0
+Los Angeles,Airline B,5
+Miami,Airline A,12
+Miami,Airline B,18
+Dallas,Airline A,-3
+Dallas,Airline B,7
