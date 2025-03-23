@@ -19,5 +19,5 @@ The dataset contains airline delay data for five destinations.
 ##  Running the Code
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/IS362_Project1.git
-   cd IS362_Project1
+   git clone https://github.com/0J4mes/IS-362-Project-1.git
+   cd IS-362-Project-1
